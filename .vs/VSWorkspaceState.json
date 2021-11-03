@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app_server",
+    "\\app_server\\models",
+    "\\app_server\\views",
+    "\\app_server\\views\\partials",
+    "\\bin",
+    "\\CS-465",
+    "\\public",
+    "\\public\\javascripts",
+    "\\travlr"
+  ],
+  "SelectedNode": "\\app_server\\views\\partials\\footer.hbs",
+  "PreviewInSolutionExplorer": false
+}
