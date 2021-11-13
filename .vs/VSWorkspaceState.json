@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\app_server",
-    "\\app_server\\models",
-    "\\app_server\\views",
-    "\\app_server\\views\\partials",
-    "\\bin",
-    "\\CS-465",
+    "\\app_server\\controllers",
+    "\\app_server\\routes",
+    "\\data",
     "\\public",
+    "\\public\\css",
+    "\\public\\images",
     "\\public\\javascripts",
-    "\\travlr"
+    "\\routes"
   ],
-  "SelectedNode": "\\app_server\\views\\partials\\footer.hbs",
+  "SelectedNode": "\\app_server\\controllers\\main.js",
   "PreviewInSolutionExplorer": false
 }
