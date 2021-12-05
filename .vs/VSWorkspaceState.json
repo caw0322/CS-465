@@ -2,14 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\app_server",
-    "\\app_server\\views",
-    "\\app_server\\views\\partials",
-    "\\public",
-    "\\public\\images",
-    "\\public\\javascripts",
-    "\\routes",
+    "\\app_server\\controllers",
+    "\\app_server\\models",
+    "\\app_server\\routes",
+    "\\bin",
+    "\\CS-465",
+    "\\data",
     "\\travlr",
     "\\views"
   ],
+  "SelectedNode": "\\.seedgooserc.js",
   "PreviewInSolutionExplorer": false
 }
