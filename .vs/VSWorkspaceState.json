@@ -4,13 +4,13 @@
     "\\app_admin",
     "\\app_admin\\src",
     "\\app_admin\\src\\app",
-    "\\app_admin\\src\\app\\add-trip",
-    "\\app_admin\\src\\app\\delete-trip",
-    "\\app_admin\\src\\app\\edit-trip",
+    "\\app_admin\\src\\app\\home",
+    "\\app_admin\\src\\app\\login",
+    "\\app_admin\\src\\app\\navbar",
     "\\app_api",
-    "\\app_api\\routes",
-    "\\bin"
+    "\\app_api\\config",
+    "\\app_server"
   ],
-  "SelectedNode": "\\app_admin\\src\\app\\delete-trip\\delete-trip.component.ts",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\app_api\\routes\\index.js",
+  "PreviewInSolutionExplorer": true
 }

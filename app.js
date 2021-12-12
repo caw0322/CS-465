@@ -30,11 +30,11 @@ app.use(passport.initialize());
 // allows CORS
 
 app.use('/api', (req, res, next) => {
-    res.header('Access-Control_allow_origin', 'http://localhost:4200');
-    res.header('Access-Control-Allow_Headers', 'Origin, X-Requested-With, Content-Type, Accept, Authorization');
+    res.header('Access-Control-Allow-Origin', 'http://localhost:4200');
+    res.header('Access-Control-Allow-Headers', 'Origin, X-Requesteed-With, Content-Type, Accept, Authorization');
     res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
     next();
-});
+})
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/travel', travelRouter);
